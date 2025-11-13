@@ -22,6 +22,7 @@ Este repositorio sirve como un recurso para:
 | :--- | :--- |
 | `affected_ips.txt` | Lista de direcciones IP identificadas como potencialmente afectadas. |
 | `REFERENCES.md` | Recursos adicionales y referencias sobre la vulnerabilidad. |
+| `IPs_DO.md` | Lista de IP de República Dominicana. |
 
 ## Descargo de Responsabilidad
 
@@ -29,8 +30,8 @@ Este repositorio sirve como un recurso para:
 
 ## Referencias
 
-* [Aviso de Seguridad de Fortinet](httpsg://www.fortiguard.com/psirt/FG-IR-22-377) *(URL de ejemplo)*
-* [Detalles del CVE-2022-40684](httpsg://nvd.nist.gov/vuln/detail/CVE-2022-40684) *(URL de ejemplo)*
+* [Aviso de Seguridad de Fortinet](httpsg://www.fortiguard.com/psirt/FG-IR-22-377) 
+* [Detalles del CVE-2022-40684](httpsg://nvd.nist.gov/vuln/detail/CVE-2022-40684) 
 
 ---
 
@@ -38,7 +39,7 @@ Este repositorio sirve como un recurso para:
 
 Si su organización ha sido impactada por esta vulnerabilidad o necesita asistencia con la mitigación:
 
-* 💼 **LinkedIn:** [Joan Nin](httpsg://www.linkedin.com/in/ninjoan) *(URL de ejemplo)*
+* 💼 **LinkedIn:** [Joan Nin](httpsg://www.linkedin.com/in/ninjoan)
 * 📧 **Correo Seguro:** [jninhilario@gmail.com](mailto:jninhilario@gmail.com)
 * 🛡️ **Para asistencia urgente de seguridad o consultas, no dude en contactar.**
 
