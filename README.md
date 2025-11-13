@@ -1,4 +1,4 @@
-# Análisis de la Fuga de Datos de Fortigate (Belsen Group)#
+# Análisis de la Fuga de Datos de Fortigate (Belsen Group)
 
 Este repositorio contiene información sobre la vulnerabilidad en los firewalls Fortigate (`CVE-2022-40684`) y las direcciones IP afectadas que fueron divulgadas públicamente por el "Belsen Group". 
 
